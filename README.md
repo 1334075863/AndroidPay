@@ -1,0 +1,2 @@
+# AndroidPay
+wechatpay,alipay
